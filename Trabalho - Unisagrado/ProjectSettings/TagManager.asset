@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CutGat
+  - CutGat2
+  - SaidaGat
+  - ChatJorje
+  - Red
+  - Black
+  - Blue
+  - Brown
+  - Green
+  - Orange
+  - Pink
+  - Purple
+  - White
+  - Yellow
+  - Data
+  - ChatFazendeiro
+  - Cow
+  - FarmEnter
+  - Watermelon
+  - Strawberry
+  - Peach
+  - Peanut
+  - Pear
+  - Cherry
+  - Banana
+  - Apple
+  - Avocado
+  - Lemon
+  - ParkEnter
+  - ChatAdestr
+  - FinalEnter
+  - Sugador
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PP
+  - Dirigivel
+  - Vila
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
